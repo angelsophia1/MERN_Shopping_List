@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://hamstersophia:J5vCXAvQzikN7H9c@cluster0-tnb5u.mongodb.net/mern_shopping?retryWrites=true&w=majority",
+    "jwtSecret":"crazy2020"
+}
